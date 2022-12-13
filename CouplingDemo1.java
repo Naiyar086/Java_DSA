@@ -1,0 +1,3 @@
+class CouplingDemo1 {
+    
+}
